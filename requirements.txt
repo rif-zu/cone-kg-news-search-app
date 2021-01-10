@@ -1,0 +1,15 @@
+certifi==2020.6.20
+dopen==0.2
+elasticsearch==7.9.1
+isodate==0.6.0
+linereader==1.0.0
+numpy==1.19.1
+pandas==1.1.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+rdflib==5.0.0
+rdflib-jsonld==0.5.0
+six==1.15.0
+tqdm==4.48.2
+urllib3==1.25.10
