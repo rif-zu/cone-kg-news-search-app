@@ -8,7 +8,7 @@ This repository contains:
 
 ## Objectives
 
-To provide a web interface for semantic-based knowledge discovery and acquisition for the public as well as provision of RDF data for researchers and data scientists to acquire knowledge in the domain and furthe rexploit the semantic data for discoveries, automated generation of insights and reasoning from linked data. This furthe provides advanced text analytics features through an elastic search index that complements the SPARQL query capabilities of a triplestore.
+To provide a web interface for semantic-based knowledge discovery and acquisition for the public as well as provision of RDF data for researchers and data scientists to acquire knowledge in the domain and furthe rexploit the semantic data for discoveries, automated generation of insights and reasoning from linked data. This further provides advanced text analytics features through an elastic search index that complements the SPARQL query capabilities of a triplestore. Other apps required are semantic graph database such as Virtuoso, GraphDB or Neo4j would be required, alongside elastic search service and spacy's named entity recognition.
 
 ## Datasets
 
